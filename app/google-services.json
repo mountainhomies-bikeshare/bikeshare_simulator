@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56358506181",
+    "firebase_url": "https://simulatorfirebase.firebaseio.com",
+    "project_id": "simulatorfirebase",
+    "storage_bucket": "simulatorfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56358506181:android:e1915fe5d8d8d945",
+        "android_client_info": {
+          "package_name": "com.example.praveer.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56358506181-6qscrjj4eo0609v6mfcmumtmnsd0c265.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCruKz6ZRiIP1uCSzwGNGcx6-7iBrr0U0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
